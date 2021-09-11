@@ -1,6 +1,6 @@
 # Massdownload_IDM
 
-This script performs mass download from F4E@Idm to a local folder, from a shopping list (texte file)
+This script performs mass download from F4E@Idm to a local folder, from a shopping list (text file)
 
 Usage :
 
